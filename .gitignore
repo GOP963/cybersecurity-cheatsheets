@@ -1,0 +1,9 @@
+.trash/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Old Git repository backup
+.git-old/
+
+# Temporary comparison files
+github-files.txt

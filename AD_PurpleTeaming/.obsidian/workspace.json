@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "bc938b80d32d74cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "783fabed71b46742",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c43ac9cc29c79dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unconstrained Kerberos Delegation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unconstrained Kerberos Delegation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52a613282e271d2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5e8a1e17b4f0f35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2714d0efbf24d5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5e14b754e234b2a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b46b42aa70581bd8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "28ddbbd58205eafc",
+    "type": "split",
+    "children": [
+      {
+        "id": "377cc798ef15577e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11e61b26a066ed82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Service Account & SPN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Service Account & SPN"
+            }
+          },
+          {
+            "id": "85f88c33f3325301",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reference.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Reference"
+            }
+          },
+          {
+            "id": "5b22ae9a27664c4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4b4a1b9098a0d0c8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8433a2d2a577b222",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reference.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Reference"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6c43ac9cc29c79dc",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Welcome 1.md",
+    "Welcome.md",
+    "AdminSDHolder.md",
+    "گزارش.md",
+    "Service Account & SPN.md",
+    "Splunk.md",
+    "image/Pasted image 20260725084301.png",
+    "image/Pasted image 20260725084119.png",
+    "image/Pasted image 20260725083952.png",
+    "image/Pasted image 20260725083835.png",
+    "image/Pasted image 20260725083723.png",
+    "image/Pasted image 20260725083511.png",
+    "image/Pasted image 20260725083431.png",
+    "image/Pasted image 20260725083406.png",
+    "image/Pasted image 20260725083325.png",
+    "image/Pasted image 20260725082342.png",
+    "Domain Enumeration.md",
+    "Accounts.md",
+    "Untitled",
+    "DCShadow.md",
+    "SDDL --- Security Descriptor Definition Language.md",
+    "DCSync.md",
+    "Kerberos Deligation.md",
+    "Unconstrained Kerberos Delegation.md",
+    "image/Screen Recording 2026-07-22 061040.mp4",
+    "image/mimikatz_OpenProcess.pdf",
+    "Pass The Hash.md",
+    "Golden Ticket.md",
+    "mimikatz_OpenProcess.pdf",
+    "Over Pass The Hash.md",
+    "AS REP Roasting.md",
+    "Kerberoasing.md",
+    "Kerberoast.md",
+    "Ticket Policy.md",
+    "AS-REP Roasting.md",
+    "reop.md",
+    "Global Catalog.md",
+    "EventCode 4742.md",
+    "GPO.md",
+    "image",
+    "Untitled 1"
+  ]
+}
