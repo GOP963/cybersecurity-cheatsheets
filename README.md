@@ -4,9 +4,8 @@
 
 این مخزن موضوعات مختلفی از امنیت سایبری را پوشش می‌دهد؛ از مباحث پایه شبکه، برنامه‌نویسی و سیستم‌عامل گرفته تا امنیت ویندوز، Active Directory، تحلیل بدافزار، مهندسی معکوس، تست نفوذ، شبیه‌سازی حملات و Threat Hunting.
 
-<img width="1055" height="974" alt="image" src="https://github.com/user-attachments/assets/8e320083-eab1-4d39-9eb1-6cbf0a2f0fd2" />
+<img width="1348" height="971" alt="image" src="https://github.com/user-attachments/assets/209aff18-4ed0-4550-a186-d21ccbffc9f1" />
 
-<img width="1850" height="1018" alt="image" src="https://github.com/user-attachments/assets/fcdd98ff-d09d-40d8-b290-35fd760f87ec" />
 
 
 ## حوزه‌های اصلی
